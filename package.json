@@ -2,7 +2,7 @@
   "name": "mindtree",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://mablejoh.github.io/mindtree"
+  "homepage": "https://mablejoh.github.io/mindtree",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -40,3 +40,4 @@
     "vite": "^6.0.5"
   }
 }
+
